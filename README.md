@@ -1,4 +1,4 @@
-# CraneChat (demo-chat)
+# ember chat (demo-chat)
 
 An E2E encrypted chat with token gated group chats built on Oasis Sapphire with ROFL.
 
@@ -7,7 +7,7 @@ This is a demo application and should not be used in production.
 
 ## How It Works
 
-CraneChat is a decentralized chat application that provides:
+ember chat is a decentralized chat application that provides:
 
 *   **Token Gated Group Chats:** Create groups that require members to hold specific token amounts on supported chains to join.
 *   **Direct Messaging:** Send encrypted messages directly to other users.
